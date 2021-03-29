@@ -42,7 +42,7 @@
 <h1 align="center">Project I'm working on</h1>
 <p align="center">
   <a href="https://www.github.com/astroexe/astral">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixlofc&repo=catware&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=astroexe&repo=astral&theme=dark"/>
   </a>&nbsp;&nbsp;
 </p>
 <h1 align="center">My Stats</h1>
